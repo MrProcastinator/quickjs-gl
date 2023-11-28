@@ -1,0 +1,7 @@
+build*/*
+debug
+*.log
+prebuilds/*
+angle/build/*
+.DS_Store
+.vscode
