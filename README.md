@@ -17,7 +17,7 @@ For example:
 ```bash
 mkdir build
 cd build
-cmake -DVITA=1 ..
+cmake ..
 make
 sudo make install
 ```
@@ -73,7 +73,7 @@ gl.swap()
 gl.destroy()
 ```
 
-# How to use with QuickJS
+## How to use with QuickJS
 
 1. Write your WebGL script (e.g.: webgl.js):
 ```js
